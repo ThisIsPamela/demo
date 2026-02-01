@@ -11,8 +11,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@thisispamela/react": "^1.0.4",
-    "@thisispamela/sdk": "^1.0.4",
+    "@thisispamela/react": "^1.1.0",
+    "@thisispamela/sdk": "^1.1.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
