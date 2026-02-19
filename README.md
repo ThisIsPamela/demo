@@ -1,8 +1,8 @@
 # Pamela Quick App
 
-[![@thisispamela/react](https://img.shields.io/badge/%40thisispamela%2Freact-1.1.0-blue)](https://www.npmjs.com/package/@thisispamela/react)
-[![@thisispamela/sdk](https://img.shields.io/badge/%40thisispamela%2Fsdk-1.1.0-blue)](https://www.npmjs.com/package/@thisispamela/sdk)
-[![thisispamela](https://img.shields.io/badge/thisispamela-1.1.0-blue)](https://pypi.org/project/thisispamela/)
+[![@thisispamela/react](https://img.shields.io/badge/%40thisispamela%2Freact-1.1.5-blue)](https://www.npmjs.com/package/@thisispamela/react)
+[![@thisispamela/sdk](https://img.shields.io/badge/%40thisispamela%2Fsdk-1.1.4-blue)](https://www.npmjs.com/package/@thisispamela/sdk)
+[![thisispamela](https://img.shields.io/badge/thisispamela-1.1.4-blue)](https://pypi.org/project/thisispamela/)
 
 React-based demo for the [Pamela Enterprise Voice API](https://docs.thisispamela.com/). Paste your API key in the UI and try the official component library instantly.
 
@@ -55,17 +55,17 @@ Create `.env` from `.env.example` and set `PAMELA_API_KEY`.
 
 ## SDK Versions
 
-This demo uses Pamela SDK v1.1.0 across all packages:
+This demo uses the following published SDKs:
 
 | Package | Version | Links |
 |---------|---------|-------|
-| `@thisispamela/react` | 1.1.0 | [npm](https://www.npmjs.com/package/@thisispamela/react) · [docs](https://docs.thisispamela.com/enterprise/component-library) |
-| `@thisispamela/sdk` | 1.1.0 | [npm](https://www.npmjs.com/package/@thisispamela/sdk) · [docs](https://docs.thisispamela.com/javascript) |
-| `thisispamela` | 1.1.0 | [PyPI](https://pypi.org/project/thisispamela/) · [docs](https://docs.thisispamela.com/python) |
+| `@thisispamela/react` | 1.1.5 | [npm](https://www.npmjs.com/package/@thisispamela/react) · [docs](https://docs.thisispamela.com/developer/component-library) |
+| `@thisispamela/sdk` | 1.1.4 | [npm](https://www.npmjs.com/package/@thisispamela/sdk) · [docs](https://docs.thisispamela.com/javascript) |
+| `thisispamela` | 1.1.4 | [PyPI](https://pypi.org/project/thisispamela/) · [docs](https://docs.thisispamela.com/python) |
 
 ## Resources
 
-- [Enterprise API Documentation](https://docs.thisispamela.com/enterprise)
-- [Component Library](https://docs.thisispamela.com/enterprise/component-library)
-- [API Reference](https://docs.thisispamela.com/enterprise/api-reference)
-- [Changelog](https://docs.thisispamela.com/enterprise/changelog)
+- [Enterprise API Documentation](https://docs.thisispamela.com/developer)
+- [Component Library](https://docs.thisispamela.com/developer/component-library)
+- [API Reference](https://docs.thisispamela.com/developer/api-reference)
+- [Changelog](https://docs.thisispamela.com/developer/changelog)

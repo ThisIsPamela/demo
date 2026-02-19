@@ -1,7 +1,7 @@
 {
   "name": "pamela-quick-ui",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Quick UI for Pamela API calls",
   "scripts": {
     "dev": "vite",
@@ -11,8 +11,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@thisispamela/react": "^1.1.0",
-    "@thisispamela/sdk": "^1.1.0",
+    "@thisispamela/react": "^1.1.5",
+    "@thisispamela/sdk": "^1.1.4",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
